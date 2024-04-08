@@ -1,14 +1,12 @@
-**Data Analyst :Khalid Lemouden**
+**Data Analyst : Khalid Lemouden**
 
 
 
-**1. Ask**
-
-**1.1 The business task**
+**1.The business task**
 
 The problem we are trying to solve is to gain insights into how consumers are using smart device data to gain insight into how consumers are using their smart devices. By analyzing the data from these devices, we aim to understand user behavior, preferences, and patterns, which can guide Bellabeat's marketing strategy to unlock new growth opportunities, either product enhancements, new product development etc.
 
-**1.2. The Stakeholders**
+**2. The Stakeholders**
 
 The stakeholders for this analysis include:
  
